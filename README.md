@@ -196,3 +196,6 @@ This repository serves as the official landing page for HEIC Converter. The soft
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HEIC Converter today!**
+
+---
+**Last updated:** 2026-11-06 12:44:46 UTC
